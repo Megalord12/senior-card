@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #252525;
+}
+
+button {
+  margin: 55px;
+  margin-top: 25px;
+  color: gold;
+  background-color: #313335;
+  border: 3px solid #313335;
+  border-radius: 5px;
+  scale: 200%;
+}
+
+h1 {
+  margin: 50px;
+  color: gold;
+  display: none;
+}
